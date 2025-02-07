@@ -24,8 +24,8 @@
 
 ## 🤳 Connect with me:
 
-[<img align="left" alt="Zarif Shams | LinkedIn" width="22px" fill="#0077B5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Zarif Shams | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Zarif Shams | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Zarif Shams | GitHub" width="22px" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="Zarif Shams | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/zarifshams/
