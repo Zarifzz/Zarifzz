@@ -1,26 +1,26 @@
-# Hi, I'm Zarif Shams!<br>[Software Engineer](https://github.com/Zarifzz) | [Tech Enthusiast](www.linkedin.com/in/zarifshams)
+# Hi, I'm Zarif Shams!<br>[Software Engineer](https://github.com/Zarifzz) | [Tech Enthusiast](https://www.linkedin.com/in/zarifshams/)
 
 ## 👨‍💻 Software Engineering Projects:
 
 - **Lifelog – Full Stack Web Application** (C#, .NET 8, ASP.NET Core, MySQL, AWS)
   - Led a team of 5 to build a lifestyle tracking app using Agile development.
-  - Focused on Test-Driven Development and MVC architecture.
-  - [GitHub Repository](https://github.com/your-lifelog-repo)
+  - Focused on Test-Driven Development and SOLID principles.
+  - [GitHub Repository](https://github.com/Peace491/Life-Log)
 
-- **Harmonize – Music Collaboration Platform** (React, Node.js, Express, MongoDB, AWS)
-  - Built a real-time collaboration tool for musicians to share and edit tracks.
-  - Integrated cloud storage for seamless media management.
-  - [GitHub Repository](https://github.com/your-harmonize-repo)
+- **Harmonize – Music Stats Platform** (React, Node.js)
+  - Built a front-end web application to compare Spotify songs.
+  - Implemented React.js for frontend development and Chart.js for presenting data.
+  - [GitHub Repository](https://github.com/PhongCao1407/Harmonize)
 
-- **Key SQL Distribution – Secure Data Access** (Python, SQL, Cybersecurity)
-  - Designed a secure key distribution mechanism for managing database access.
-  - Implemented encryption strategies to protect sensitive data.
-  - [GitHub Repository](https://github.com/your-keysql-repo)
+- **Key SQL Distribution – Key Management** (Python, SQL)
+  - Designed a complex database for managing keys given to faculty members.
+  - Created multiple database diagrams to visualize and optimize database structure.
+  - [GitHub Repository](https://github.com/PhongCao1407/KeyHook)
 
 - **City of Long Beach – Data Analytics & Automation** (Python, Pandas, Data Processing)
-  - Reduced data processing time from 8 hours to 30 minutes by optimizing data joins.
-  - Developed scripts to merge police and business datasets for crime impact analysis.
-  - [GitHub Repository](https://github.com/your-citylongbeach-repo)
+  - Created and Streamlined reports to Long Beach initiatives, VIP and BizCare
+  - Developed a Python script to merge police and business datasets for crime impact analysis.
+  - [GitHub Repository](https://github.com/Zarifzz/CLB_PD_BL_Datamatching)
 
 ## 🤳 Connect with me:
 
@@ -28,6 +28,6 @@
 [<img align="left" alt="Zarif Shams | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Zarif Shams | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-[linkedin]: https://linkedin.com/in/zarifshams
-[github]: https://github.com/zarifshams
-[email]: mailto:your-email@example.com
+[linkedin]: https://www.linkedin.com/in/zarifshams/
+[github]: https://github.com/Zarifzz
+[email]: mailto:zarifshams@outlook.com
