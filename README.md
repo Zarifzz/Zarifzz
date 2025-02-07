@@ -1,5 +1,4 @@
-# Hi, I'm Zarif Shams!
-## [Software Engineer](https://github.com/zarifshams) | [Tech Enthusiast](https://www.linkedin.com/in/zarifshams)
+# Hi, I'm Zarif Shams!<br>[Software Engineer](https://github.com/zarifshams) | [Tech Enthusiast](https://www.linkedin.com/in/zarifshams)
 
 ## 👨‍💻 Software Engineering Projects:
 
@@ -25,6 +24,12 @@
 
 ## 🤳 Connect with me:
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/zarifshams) [LinkedIn](https://linkedin.com/in/zarifshams) |
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/zarifshams) [GitHub](https://github.com/zarifshams) |
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:your-email@example.com) [Email](mailto:your-email@example.com)
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
