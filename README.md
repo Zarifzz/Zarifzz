@@ -7,6 +7,11 @@
   - Focused on Test-Driven Development and SOLID principles.
   - [GitHub Repository](https://github.com/Peace491/Life-Log)
 
+- **City of Long Beach – Data Analytics & Automation** (Python, Pandas, Data Processing)
+  - Created and Streamlined reports to Long Beach initiatives, VIP and BizCare
+  - Developed a Python script to merge police and business datasets for crime impact analysis.
+  - [GitHub Repository](https://github.com/Zarifzz/CLB_PD_BL_Datamatching)
+
 - **Harmonize – Music Stats Platform** (React, Node.js)
   - Built a front-end web application to compare Spotify songs.
   - Implemented React.js for frontend development and Chart.js for presenting data.
@@ -17,10 +22,11 @@
   - Created multiple database diagrams to visualize and optimize database structure.
   - [GitHub Repository](https://github.com/PhongCao1407/KeyHook)
 
-- **City of Long Beach – Data Analytics & Automation** (Python, Pandas, Data Processing)
-  - Created and Streamlined reports to Long Beach initiatives, VIP and BizCare
-  - Developed a Python script to merge police and business datasets for crime impact analysis.
-  - [GitHub Repository](https://github.com/Zarifzz/CLB_PD_BL_Datamatching)
+- **Flask Socket-IO Chatroom** (Python, Flask, SocketIO)
+  - Built a real-time chat application with Flask and Socket-IO.
+  - Enabled seamless communication for 30+ users across devices.
+  - [GitHub Repository](https://github.com/Zarifzz/web-socketio)
+
 
 ## 🤳 Connect with me:
 
