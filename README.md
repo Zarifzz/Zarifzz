@@ -1,4 +1,4 @@
-# Hi, I'm Zarif Shams!<br>[Software Engineer](https://github.com/Zarifzz) | [Tech Enthusiast](https://www.linkedin.com/in/zarifshams/)
+# Hi, I'm Zarif Shams!
 
 ## 👨‍💻 Software Engineering Projects:
 
